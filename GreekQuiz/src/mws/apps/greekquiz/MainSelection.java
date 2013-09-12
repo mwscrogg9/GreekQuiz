@@ -1,4 +1,4 @@
-package mws.apps.greekquiz;  //Grub
+package mws.apps.greekquiz;  //Slug
 
 import android.app.Activity;
 import android.app.AlertDialog;
